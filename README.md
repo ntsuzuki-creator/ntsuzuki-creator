@@ -14,6 +14,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ntsuzuki-creator&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ntsuzuki-creator&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ntsuzuki-creator&theme=gruvbox)
-
